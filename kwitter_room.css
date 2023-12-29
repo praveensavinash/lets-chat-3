@@ -1,0 +1,16 @@
+Add
+{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+Kwitter
+{
+    color: rgb(33, 163, 206);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+<input type="text" id="room name" class="form-control" placeholder="#Room Name">
+</div>
+<button onclick="addRoom();"id=add_room class="btn btn-success">add_room</button>
